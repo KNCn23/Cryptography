@@ -1,5 +1,6 @@
 # Cryptography
-Prsent Algorithm
-main.c kodu terminal üzerinden çalışan bir koddur direkt çalıştırılabilir.
-main.py kodu için streamlit üzerinden çalıştırılmaktadır o yüzden çalıştırmadan önce terminal içerisinde pip install streamlit komutu çalıştırılıp yüklenmeli, 
-ardından kodu çalıştırıp result bölümünde 1 değerini gördükten sonra terminale gidip run streamlit main.py çalıştırıldığında otomatik olarak bir web browser da sekme açılacaktır.
+## Prsent Algorithm
+### main.c code can be run on IDE.
+### main.py code;
+- This code work at streamlit library so you must install streamlit at terminal. (pip install streamlit)
+- Then how it works. Run the code and result comes 1. And go terminal write "run streamlit main.py" it will be pop up your browser with localhost url.
