@@ -18,7 +18,7 @@ int main()
     
     for(i=0;i<5;i++)
     {
-        printf("\n %d \n",dizi[i]);
+        printf("\n %d,aaaaa \n",dizi[i]);
         
     }
     
